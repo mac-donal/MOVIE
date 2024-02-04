@@ -1,90 +1,5 @@
 [
   {
-    "name": "La Casa De Papel Berlín",
-    "samples": [
-      {
-        "name": " parte 1 ",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlBj0ZIjD3WT2T6oSsAwfmKsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 2",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlHeaKOxJ6yYQ0wzChooplscZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 3",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlKnArA13q/uHiP3w6ZCT/Y8ZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 4",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlIxo4bne9kVXbF0E3TPVA+cZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 5",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlIKHUy3Pt9ksQ92M7Sl+bFsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 6",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlYtqBIv0vZ7Mxj6H6h4InisZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": " parte 7",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlmlV2wjNWpNH1002IsjU7HcZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      },
-      {
-        "name": "final",
-        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlrtCIHwA3aSupJL+15T2VbsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
-        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
-      }
-    ]
-  },
-  {
-    "name": "El Encargado T2",
-    "samples": [
-      {
-        "name": "EP.1 ",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIWA9/OliA/OSJDhN2DOK3RoZ5LLvvB5eDGhIhsT8JD6lM80z6VKYaTOvMP3dDM95v",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.2 ",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIjyLfF50WxUnSQAedsE7IYqLVZADQVemWMKC4mxVZ4e4BZR4Nh5FvLwUqODmnxuGX",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.3 ",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIZIU2i2zgatuGK/PjtcF5XWWIIpzQ5NBXUaaNbNdrhBLRn0qSIzaKUE+LNnbkkug4",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.4 ",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKI7VfMf2fH+vY5Vd8XmJn/s/Fh7JjWrt9n/iKZi/9E4TO2OP0ji2MpfVwOYDgChNQ4",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.5",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIBnwATpkMVYK/33S3Jm2XxVRrC7F0fyKYvVpvq8+fECIOcolE8xo2n/XmSOk1xG0+",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.6",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIvw+ti0FnQ+KoXkcVFVIOEcO3dKyy9ztFQckjEf3wRDcsU5GEmJ/ITsgn71AwmTl6",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      },
-      {
-        "name": "EP.7",
-        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIg+vftfxB3QO+wiciXLxe+ZffJyAOBYissuMZsBa0od6uc6RyT3yNP2skUfmNyd3k",
-        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
-      }
-    ]
-  },
-  {
     "name": "PELICULAS y SERIES",
     "samples": [
       {
@@ -468,6 +383,91 @@
         "name": "Love Tactics 2 (2023)",
         "uri": "08nVN1JJ5/Ixwa/31FGTA4vNkXdvB9MzOZqTjatOrEKkHoIg69USEClTdY+hhTDcFDFf/BjTLiC1x0qbpnz5E9NB35ttTdSZFkilIJ4pNeo=",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsPh5kJC7JaQE403nHGPbGECkABuM3K8ER5MSdejhKz1PpGeei"
+      }
+    ]
+  },
+  {
+    "name": "La Casa De Papel Berlín",
+    "samples": [
+      {
+        "name": " parte 1 ",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlBj0ZIjD3WT2T6oSsAwfmKsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 2",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlHeaKOxJ6yYQ0wzChooplscZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 3",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlKnArA13q/uHiP3w6ZCT/Y8ZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 4",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlIxo4bne9kVXbF0E3TPVA+cZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 5",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlIKHUy3Pt9ksQ92M7Sl+bFsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 6",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlYtqBIv0vZ7Mxj6H6h4InisZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": " parte 7",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlmlV2wjNWpNH1002IsjU7HcZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      },
+      {
+        "name": "final",
+        "uri": "KSvNnF+w5KZTCTzsEujCW8fDT4qUnwBCP+BnafezT/Z4V3zJ7gi4ORK0eyxv6sQlrtCIHwA3aSupJL+15T2VbsZsoNggRnxeqNdWLKI8ot9hFZ11DDPxu3WZEIWn62SH",
+        "icono": "https://s3.us-west-1.amazonaws.com/esdelatino.com/wp-content/uploads/2023/12/28003244/La-precuela-de-La-casa-de-papel-Berlin-que-esperar.jpg"
+      }
+    ]
+  },
+  {
+    "name": "El Encargado T2",
+    "samples": [
+      {
+        "name": "EP.1 ",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIWA9/OliA/OSJDhN2DOK3RoZ5LLvvB5eDGhIhsT8JD6lM80z6VKYaTOvMP3dDM95v",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIjyLfF50WxUnSQAedsE7IYqLVZADQVemWMKC4mxVZ4e4BZR4Nh5FvLwUqODmnxuGX",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIZIU2i2zgatuGK/PjtcF5XWWIIpzQ5NBXUaaNbNdrhBLRn0qSIzaKUE+LNnbkkug4",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.4 ",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKI7VfMf2fH+vY5Vd8XmJn/s/Fh7JjWrt9n/iKZi/9E4TO2OP0ji2MpfVwOYDgChNQ4",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.5",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIBnwATpkMVYK/33S3Jm2XxVRrC7F0fyKYvVpvq8+fECIOcolE8xo2n/XmSOk1xG0+",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.6",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIvw+ti0FnQ+KoXkcVFVIOEcO3dKyy9ztFQckjEf3wRDcsU5GEmJ/ITsgn71AwmTl6",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.7",
+        "uri": "8OW45Yp3movEgdCPau7QL50/qoGbzTubNuLgpxRW06Zo1Owx9E3t4A98NThKJKKIg+vftfxB3QO+wiciXLxe+ZffJyAOBYissuMZsBa0od6uc6RyT3yNP2skUfmNyd3k",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
       }
     ]
   }
